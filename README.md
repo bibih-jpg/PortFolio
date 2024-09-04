@@ -11,14 +11,11 @@ Looking to start a career as a Cybersecurity Analyst. I want to use my skills to
 | Basic Troubleshooting                         |
 
 ## Computer Hardware and software Porjects
-## Hardware
-Computer Reassembly
-Computer Parts Labeling
-## Software
-Google Remote Set Up
-OS Install
-Bootable USB
-## Virtual Machine
-Active Repository
-Virtual Machine
+- Computer Reassembly
+- Computer Parts Labeling
+- Google Remote Set Up
+- OS Install
+- Bootable USB
+- Active Repository
+- Virtual Machine
 
