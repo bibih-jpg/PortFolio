@@ -10,7 +10,7 @@ Looking to start a career as a Cybersecurity Analyst. I want to use my skills to
 | Operating System Installation (Windows 10)    |
 | Basic Troubleshooting                         |
 
-## Computer Hardware and software Porjects
+## Computer Hardware and software Projects
 - Computer Reassembly
 - Computer Parts Labeling
 - Google Remote Set Up
