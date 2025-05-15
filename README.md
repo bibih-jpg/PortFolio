@@ -1,62 +1,48 @@
-# Hello, I'm Jeanne Basayo  
-I am a high school student at MLK High School with an interest in technology and a dedication to solving complex problems.  
+# Hello, I'm Jeanne Basayo 👋
+I am a high school student at MLK High School with an interest in technology and a dedication to solving complex problems.
 
-## Objective  
-Looking to start a career as a Cybersecurity Analyst. I want to use my skills to help keep systems safe. Eager to learn more and contribute to a security team.
+## 🎯 Objective
+Looking to start a career as a Cybersecurity Analyst. I want to use my skills to help keep systems safe. Eager to learn more and contribute. 
 
-## Skills
+## 🛠️ Skills
 
-| Skill                                         |
+| Skill                                         
 |-----------------------------------------------|
-| Computer Hardware Assembly                    | 
+| Computer Hardware Assembly	                  | 
 | Operating System Installation (Windows 10)    |
-| Virtual Machines (VMware, VirtualBox)         |
-| Active Directory Setup                        |
-| Group Policy Configuration                    |
-| PowerShell & Command Line Tools               |
-| TryHackMe Labs (Cybersecurity Labs)           |
-| Microsoft 365 Security Center                 |
-| Basic Networking (TCP/IP, DNS, DHCP)          |
-| Threat Detection & Incident Response          |
+| Basic Troubleshooting                         |
+| Active Directory Basics                       |
+| Virtual Machine Setup                         |
+| Event Log Analysis                            |
+| Microsoft SC-900 Certified                    |
 
-## Certifications  
-- Microsoft SC-900: Security, Compliance, and Identity Fundamentals  
-- Working toward CompTIA Security+  
+## 💻 Computer Hardware and Software Projects
+- Virtual Machine Setup (Using Oracle VirtualBox)
+- Active Directory Setup and User Management
+- Bootable USB Creation for OS Installations
+- Operating System Installation (Windows 10)
+- Event Viewer Log Walkthrough & Security Audit
+- Google Remote Desktop Setup
+- Computer Assembly & Labeling of Internal Components
 
-## Computer Hardware and Software Projects  
-- Computer Reassembly  
-- Computer Parts Labeling  
-- Google Remote Setup  
-- OS Install (Windows 10)  
-- Bootable USB Creation  
-- Active Repository Install  
-- Virtual Machine Installation & Setup  
+## 🔐 Cybersecurity Training Projects (TryHackMe)
+- Secure Network Architecture (TryHackMe)
+- Advanced SQL Injection (TryHackMe)
+- Active Directory Basics (TryHackMe)
+- CSRF (TryHackMe)
+-
 
-## Cybersecurity Projects  
+## 📜 Certifications
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 
-### 🖥️ Windows Security Lab  
-- Installed Windows Server and created a secure lab environment  
-- Configured Active Directory users, roles, and permissions  
-- Applied Group Policy settings for account lockouts, password policies, and access control  
+## 🏅 Activities & Recognition
+- SMASH Design Thinking Intern
+- Web Designer at G.G.H (1 year+)
+- Digital Media Student at MLK High
+- Georgia Tech Capstone Project Judge
+- Nominated for the James Edward Oglethorpe Scholarship
 
-### 🛡️ Incident Response Simulation  
-- Detected suspicious activity using Event Viewer and PowerShell logs  
-- Created a mock incident report and outlined basic response steps  
-
-## TryHackMe Labs  
-- **Intro to Cybersecurity** – Learned CIA triad, threat types, and basic cybersecurity concepts  
-- **Pre-Security Path** – Practiced Linux commands, networking basics, and web security  
-- **Blue Team Labs** – Used Splunk to monitor logs and detect attacks  
-- **Active Directory Basics** – Explored AD structure and privilege escalation  
-- **AttackBox Labs** – Ran penetration testing tools in a virtual attack environment  
-
-## What's Next?  
-- Continuing more TryHackMe rooms to build skills  
-- Preparing for CompTIA Security+  
-- Looking for internships and entry-level cybersecurity roles  
-
-## Contact  
-📧 basayojeanne03@gmail.com  
-💻 GitHub: [YourGitHubUsername]  
-📍 Atlanta, GA  
+## 📫 Contact
+**Email:** basayojeanne03@gmail.com  
+**LinkedIn:** linkedin.com/in/naomi-basayo1  
 
